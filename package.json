@@ -1,0 +1,25 @@
+{
+  "name": "tutorialspoint-project",
+  "version": "1.0.0",
+  "description": "Messing around and learning NodeJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lrwarren94/Learning-Node-JS.git"
+  },
+  "keywords": [
+    "learning",
+    "node",
+    "js",
+    "tutorialspoint"
+  ],
+  "author": "Lindsey Warren",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lrwarren94/Learning-Node-JS/issues"
+  },
+  "homepage": "https://github.com/lrwarren94/Learning-Node-JS#readme"
+}
