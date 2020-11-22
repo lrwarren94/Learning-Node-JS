@@ -7,7 +7,7 @@ var path = require("path");
 // console.log(data.toString());
 
 // Non-blocking
-myFilePath = path.join("..", "resources", "input.txt");
+var myFilePath = path.join("..", "resources", "input.txt");
 console.log(myFilePath);
 fs.readFile(myFilePath,  "utf-8", function (err, data) {
     if (err)
